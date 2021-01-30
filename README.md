@@ -23,10 +23,11 @@
 - 📫 Reach me at: **salonipatil17@gmail.com**
 - 📄 Know about my experiences from my [Resume](http://bit.ly/Saloni-resume)
 
+<br/>
 
-<details>
-  <summary>&emsp;&nbsp;<strong><em>Languages and Tools I like to work with</em></strong></summary>
-<p align="left"> 
+
+<h3 align="center">Technologies I like to work with </h3>
+<p align="center"> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -41,9 +42,11 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-  </details
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact" alt="salonip" /></p>
+<h3 align="center">Stats and Reach:</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Saloni%27s%20Most%20Used%20Languages" alt="salonip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonip&show_icons=true&locale=en" alt="salonip" /></p>
 
