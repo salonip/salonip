@@ -46,8 +46,6 @@
 
 <h3 align="center">Stats and Reach:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Saloni%27s%20Most%20Used%20Languages" alt="salonip" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Saloni%27s%20Most%20Used%20Languages&hide=prs,contribs&count_private=true" alt="salonip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonip&show_icons=true&locale=en" alt="salonip" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonip&" alt="salonip" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Saloni%27s%20GitHub%20Stats" alt="salonip" /></p>
