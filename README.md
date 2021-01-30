@@ -1,23 +1,29 @@
+#  👋
 <h1 align="center">Hi 👋, I'm Saloni</h1>
-<h3 align="center">A passionate Machine Learning Developer from India</h3>
+<h3 align="center">A passionate Machine Learning Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonip&label=Profile%20views&color=0e75b6&style=flat" alt="salonip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonip" alt="salonip" /></a> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:salonipatil17@gmail.com?subject=Just%20saw%20your%20work&body=Hi%20Saloni%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sarveshh" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saloni-p-92478446" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarveshp273" height="30" width="40" /></a>
+<a href="https://dev.to/salonip" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
+</p>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salonip&label=Profile%20views&color=0e75b6&style=flat" alt="salonip" width="130"/> </p>
+
 
 - 🔭 I’m currently working on [Chatbots.py](https://github.com/salonip/ChatBots)
-
 - 🌱 I’m currently learning **Generative adversarial networks (GANS)**
-
-- 👨‍💻 All of my public projects are available at [https://github.com/salonip](https://github.com/salonip)
-
-- 📝 I regularly write articles on [https://dev.to/salonip](https://dev.to/salonip)
-
-- 💬 Ask me about **Python, Machine Learning, Julia, NLP**
+- 👨‍💻 All of my public projects are available on [GitHub](https://github.com/salonip)
+- 📝 I regularly write articles on [dev.to](https://dev.to/salonip)
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP**
 
 - 📫 Reach me at: **salonipatil17@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/Saloni-resume](http://bit.ly/Saloni-resume)
+- 📄 Know about my experiences on my [Resume](http://bit.ly/Saloni-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
