@@ -1,5 +1,5 @@
 #  👋
-<h1 align="center">Hi 👋, I'm Saloni</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/salonip/salonip/main/saloni-gif.gif"></p>
 <h3 align="center">A passionate Machine Learning Developer from India 🇮🇳</h3>
 
 
