@@ -48,4 +48,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Saloni%27s%20Most%20Used%20Languages&hide=prs,contribs&count_private=true" alt="salonip" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sarveshh&show_icons=true&count_private=true&custom_title=Saloni%27s%20GitHub%20Stats" alt="salonip" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=salonip&show_icons=true&count_private=true&custom_title=Saloni%27s%20GitHub%20Stats" alt="salonip" /></p>
